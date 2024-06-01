@@ -1,0 +1,9 @@
+.chart-container{
+ overflow-x: auto;
+ height: 25rem;
+ margin-left: 5rem;
+ margin-right: 5rem;
+ border: 1px solid black;
+ margin-top: 25px;
+ background-color: floralwhite;
+}
